@@ -4,7 +4,7 @@
 
 We are going to do this lab using **pair programming.** Each of you will work with a parter to complete the application. You will only use *one* computer. One of you, the driver, writes code while the other, the navigator, instructs what to type and reviews each line of code as it is typed in. Half way through, the driver and the navigator will switch roles.
 
-Lets get some more practice with views and controllers by making an app about transformers! You are given a module with some data on transformers. Use express to display this data!
+Lets get some more practice with views and controllers by making an app about transformers! You are given a module with some data on transformers. Use express and mustache to display this data!
 
 ### **The app should have:**
 
